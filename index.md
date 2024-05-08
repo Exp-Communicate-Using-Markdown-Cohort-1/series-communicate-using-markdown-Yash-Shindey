@@ -4,3 +4,6 @@
 ```
 npm init -y
 ```
+- [x] This is fun to do
+- [ ] I wish i had learnt this earlier in life
+- [ ] I hope i can show this somewhere
